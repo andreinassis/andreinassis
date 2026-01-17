@@ -7,7 +7,7 @@ Sou um estrategista de tecnologia no Grupo OM, especializado em transformar desa
 
 
 ## 🔗 Links
-[![instagram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/andreinassis/)
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/andreinassis/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiassis)
 
 ## Outras seções comuns em perfis do GitHub
