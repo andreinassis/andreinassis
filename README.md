@@ -1,4 +1,37 @@
-## Hi there 👋
+
+# Olá, eu sou o Andrei! 👋
+
+
+## Sobre mim
+Sou um estrategista de tecnologia no Grupo OM, especializado em transformar desafios complexos em soluções de negócio, motivado a criar novas soluções que possam aprimorar a visão e o uso da tecnologia, explorando sua capacidade máxima. Meu propósito é traduzir as necessidades do negócio em soluções tecnológicas coesas, escaláveis e seguras. Acredito que a tecnologia deve servir para otimizar processos, elevar a qualidade e, principalmente, ampliar o conhecimento e a capacidade de especialistas em suas áreas.
+
+
+## 🔗 Links
+[![instagram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/andreinassis/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiassis)
+
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Trabalho atualmente na/no...
+
+🧠 Estou aprendendo...
+
+👯‍♀️ Procuro colaborar em...
+
+🤔 Procuro ajuda com...
+
+💬 Me pergunte sobre...
+
+📫 Como entrar em contato comigo...
+
+😄 Pronomes...
+
+⚡️ Fatos engraçados...
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS...
+
+
 
 <!--
 **andreinassis/andreinassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
